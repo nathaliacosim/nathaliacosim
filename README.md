@@ -1,8 +1,8 @@
 ### Hi, I'm Nath :vulcan_salute:
 
-:man_technologist: Software developer
+:woman_technologist: Software developer
 
-:man_student: Data Science
+:heart_eyes: Data Science
 
 :brain: Research and Development with: Groovy, Java, Clojure and C#
 
