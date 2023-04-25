@@ -22,7 +22,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=nathaliacosim&layout=compact&custom_title=Languages%20More%20Used"
+      src="![Nath GitHub stats](https://github-readme-stats.vercel.app/api?username=nathaliacosim&show_icons=true&theme=radical)
     />
   </a>
 </p>
