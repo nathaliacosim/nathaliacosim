@@ -11,5 +11,19 @@
 <br>
 :brain: Research and Development with: Java, Clojure and C#
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nathaliacosim&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliacosim&layout=compact&theme=radical&hide_border=true" /></a> |
-| ------------- | ------------- |
+<br>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=nathaliacosim&count_private=true&theme=radical&show_icons=true&custom_title=Github%20Status"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=nathaliacosim&layout=compact&count_private=true&theme=radical&custom_title=Languages%20More%20Used"
+    />
+  </a>
+</p>
