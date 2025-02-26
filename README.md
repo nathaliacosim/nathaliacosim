@@ -1,17 +1,10 @@
-### Hi, I'm Nath :vulcan_salute:
+# Oi, sou a Nath 👋
 
-:woman_technologist: Software developer
+- 🚀 **Apaixonada por Aventuras, Viagens, Jogos e Tecnologia**
+- 💻 **Programadora desde 2014**
+- 🔧 **Experiência com diversas linguagens**, mas atualmente me especializo em **C#** e **.NET Framework**
+- 🔄 **Especialista em Conversão e Migração de Dados** (PG Admin é meu parceiro inseparável, hehe)
+- 📚 **Aluna da Rocketseat e da Dio**, sempre em busca de novos conhecimentos
+- 🎓 **Formada em Análise e Desenvolvimento de Sistemas (ADS)**
 
-:dart: Data Science
-
-:smiley: Enthusiast in the .Net ecosystem
-
-### Achievements :trophy:
-
-<p>
-  :trophy: SAMSUNG UNICEF Marathon 2019 Finalist </br>
-  :trophy: SAMSUNG UNICEF Marathon 2018 Finalist </br>
-  :microphone: COMPUTER ON THE BEACH 2017 Speaker </br>
-  :memo: SBC Programming Marathon MS 2018 Participant </br>
-  :memo: SBC Programming Marathon MS 2019 Participant </br>
-<br>
+Sempre em busca de aprender mais e evoluir a cada dia! Vamos juntos nessa jornada?
